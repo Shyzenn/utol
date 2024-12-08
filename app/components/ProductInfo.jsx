@@ -4,7 +4,7 @@ import { TableDemo } from "./productTable";
 const ProductInfo = () => {
   return (
     <>
-      <div className=" ml-24 mt-20 mb-20">
+      <div className="flex items-center flex-col mt-20 mb-20">
         <h1 className="text-3xl mb-10">Product Information</h1>
 
         <div className="md:flex md:flex-row gap-8 md:justify-evenly flex flex-col ">
