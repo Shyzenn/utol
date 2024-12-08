@@ -11,16 +11,16 @@ const About = () => {
           <div className="shadow-md w-80 p-8 bg-white">
             <h1 className="mb-10 text-xl text-center mt-2">Service Overview</h1>
             <p className="text-justify">
-              "Our mission is to provide top-quality materials and excellent
-              service to our clients, ensuring projects are successful."
+              Our mission is to provide top-quality materials and excellent
+              service to our clients, ensuring projects are successful.
             </p>
           </div>
           <div className="shadow-md w-80 p-8 bg-white">
             <h1 className="mb-10 text-xl text-center mt-2">Company History</h1>
             <p className="text-justify">
-              "Established in [2019], Utol Builders has been a trusted supplier
+              Established in [2019], Utol Builders has been a trusted supplier
               of glass, aluminum, and steel materials for fabrication and
-              installation industries."
+              installation industries.
             </p>
           </div>
           <div className="shadow-md w-80 p-8 bg-white">
@@ -28,8 +28,8 @@ const About = () => {
               Mission Statement
             </h1>
             <p className="text-justify">
-              "Utol Builders offers a comprehensive range of glass, aluminum,
-              and steel materials and services for various applications."
+              Utol Builders offers a comprehensive range of glass, aluminum, and
+              steel materials and services for various applications.
             </p>
           </div>
         </div>

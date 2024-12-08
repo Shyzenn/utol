@@ -11,14 +11,14 @@ const ProductInfo = () => {
           <div className="shadow-md w-80 p-8 bg-white">
             <h1 className="mb-10 text-xl text-center mt-2">Glass Materials</h1>
             <p className="text-justify">
-              "UTol Builders supplies a glass materials suitable for windows,
-              doors, facades and interior design."
+              UTol Builders supplies a glass materials suitable for windows,
+              doors, facades and interior design.
             </p>
           </div>
           <div className="shadow-md w-80 p-8 bg-white">
             <h1 className="mb-10 text-xl text-center mt-2">Steel Materials</h1>
             <p className="text-center">
-              "We provide high-quality steel materials."
+              We provide high-quality steel materials.
             </p>
           </div>
           <div className="shadow-md w-80 p-8 bg-white">
@@ -26,8 +26,8 @@ const ProductInfo = () => {
               Aluminum Materials
             </h1>
             <p className="text-justify">
-              "Out aluminum materials are perfect for structural and
-              architectural applications, offering strength and durability."
+              Out aluminum materials are perfect for structural and
+              architectural applications, offering strength and durability.
             </p>
           </div>
         </div>
