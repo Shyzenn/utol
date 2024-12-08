@@ -4,10 +4,10 @@ import FinishedProducts from "./FinishedProducts";
 const About = () => {
   return (
     <>
-      <div className=" ml-24 mt-20 mb-20">
+      <div className="flex flex-col justify-center items-center mt-20 mb-20">
         <h1 className="text-3xl mb-10">About</h1>
 
-        <div className="md:flex md:flex-row gap-8 md:justify-evenly flex flex-col mr-32">
+        <div className="md:flex md:flex-row gap-8 md:justify-evenly flex flex-col">
           <div className="shadow-md w-80 p-8 bg-white">
             <h1 className="mb-10 text-xl text-center mt-2">Service Overview</h1>
             <p className="text-justify">
