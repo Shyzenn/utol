@@ -11,37 +11,13 @@ const FinishedProducts = () => {
   return (
     <div className="mt-20">
       <h1 className="text-2xl text-center">Finished Products</h1>
-      <div className="grid md:grid-cols-3 gap-5 justify-center place-items-center mt-16 mx-8">
-        <Image
-          src={img1}
-          alt="productImage"
-          className="w-100 h-100 md:w-80 md:h-80"
-        />
-        <Image
-          src={img2}
-          alt="productImage"
-          className="w-100 h-100 md:w-80 md:h-80"
-        />
-        <Image
-          src={img3}
-          alt="productImage"
-          className="w-100 h-100 md:w-80 md:h-80"
-        />
-        <Image
-          src={img4}
-          alt="productImage"
-          className="w-100 h-100 md:w-80 md:h-80"
-        />
-        <Image
-          src={img5}
-          alt="productImage"
-          className="w-100 h-100 md:w-80 md:h-80"
-        />
-        <Image
-          src={img6}
-          alt="productImage"
-          className="w-100 h-100 md:w-80 md:h-80"
-        />
+      <div className="grid grid-cols-3 gap-5 justify-center place-items-center mt-16">
+        <Image src={img1} alt="productImage" className="w-80 h-80" />
+        <Image src={img2} alt="productImage" className="w-80 h-80" />
+        <Image src={img3} alt="productImage" className="w-80 h-80" />
+        <Image src={img4} alt="productImage" className="w-80 h-80" />
+        <Image src={img5} alt="productImage" className="w-80 h-80" />
+        <Image src={img6} alt="productImage" className="w-80 h-80" />
       </div>
     </div>
   );
